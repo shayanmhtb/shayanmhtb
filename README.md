@@ -37,11 +37,11 @@
 <br />
 
 
-<div style="display: flex; flex-direction: column; align-items: center;">
+<!-- <div style="display: flex; flex-direction: column; align-items: center;">
 <h3 style="font-size: 2em;">Profile Stats:</h3>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shayanmhtb&show_icons=true&locale=en&layout=compact" alt="shayanmhtb" /></p>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shayanmhtb&show_icons=true&locale=en" alt="shayanmhtb" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=shayanmhtb&" alt="shayanmhtb" /></p>
-</div>
+</div> -->
