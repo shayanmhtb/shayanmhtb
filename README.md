@@ -36,8 +36,8 @@
 
 <br />
 
-<div class="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-  <div class="margin: 2em; padding: .8em 1.2em; border: 2px solid #000000; border-radius: 1em; background-color: #77aafc;">
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+  <div style="margin: 2em; padding: .8em 1.2em; border: 2px solid #000000; border-radius: 1em; background-color: #77aafc;">
     this is going to be a card
   </div>
 </div>
